@@ -44,13 +44,6 @@ Supported arguments:
 2020年大学生创新创业并获优秀结项
 - 放大电路以及机械部分由队友负责，我主要负责设计labview的信号采集系统。
 
-### **智能人群监测和管理系统** `2020.12-2021.8`
-华中科技大学EPIC实验室项目,我主要负责的部分如下
-- 设计无人机与地面站的连接方案并测试
-- CCTV网络的设计、搭建、测试
-- 传感器网络的设计、搭建、测试
-- SDN网络的设计，在此基础上的论文产出:Resource-efficient UAV-enabled networks: reinforcement learning for task allocation and offloading
-
 ### **2021年全国大学生编译器系统设计赛(华为毕昇杯)** `2021.5-2021.8`
 进入决赛，获三等奖
 - C语言开发，实现了完整编译过程
