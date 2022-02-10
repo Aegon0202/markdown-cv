@@ -2,7 +2,7 @@
 layout: cv
 title: Haoyu Deng
 phone:
-  13135398888
+  18373925399
 email:
   url: 
   text: 412576597@qq.com
