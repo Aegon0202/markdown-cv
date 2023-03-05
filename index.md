@@ -29,6 +29,7 @@ Supported arguments:
 计算机科学与技术学院 计算机科学与技术卓越工程师班 本科
 
 ### **中科院计算所** `2022.9 至今`
+计算机体系结构方向
 ## 专业技能
 - **programming:** C++/LLVM/linux/操作系统/tensorflow
 
